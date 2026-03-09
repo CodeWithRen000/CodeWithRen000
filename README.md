@@ -1,6 +1,6 @@
 Hi, Im Ren
-I'm Interested in 4 different types of programmin languages, Python, Java Script, html and C++
-I'm currently learning c++
+I'm Interested in Web Development
+I'm currently learning the basics 
 - Idk-
 
 <!---
