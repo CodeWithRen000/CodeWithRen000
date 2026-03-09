@@ -1,5 +1,5 @@
 Hi, Im Ren
-I'm Interested in Web Development
+I'm Interested in Web Development,
 I'm currently learning the basics 
 - Idk-
 
